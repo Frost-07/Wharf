@@ -21,7 +21,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^12.38.0",
     "github-markdown-css": "^5.9.0",
-    "katex": "^0.17.0",
+    "katex": "^0.19.1",
     "lucide-react": "^1.9.0",
     "mermaid": "^11.15.0",
     "posthog-js": "^1.408.3",
